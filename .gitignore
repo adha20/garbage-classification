@@ -1,0 +1,32 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Local datasets and temporary exports
+data/
+dataset/
+datasets/
+garbage_classification/
+*.zip
+*.tar
+*.tar.gz
+
+# Training scratch files
+checkpoints/
+*.keras
+*.h5
+*.log
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
