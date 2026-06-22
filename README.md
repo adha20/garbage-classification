@@ -300,7 +300,7 @@ Penjelasan file:
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/username/nama-repository.git
+git clone https://github.com/adha20/garbage-classification.git
 cd nama-repository
 ```
 
