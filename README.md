@@ -301,13 +301,7 @@ Penjelasan file:
 
 ```bash
 git clone https://github.com/adha20/garbage-classification.git
-cd nama-repository
-```
-
-Jika repository berisi folder proyek:
-
-```bash
-cd submission_klasifikasi_gambar_improvisasi
+cd garbage-classification
 ```
 
 ### 2. Buat Virtual Environment
